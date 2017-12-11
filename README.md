@@ -1,2 +1,2 @@
 # GAN
-A simple implementation  of GAN 
+## A simple implementation  of GAN using Pytorch.
